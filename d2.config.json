@@ -6,7 +6,7 @@
   "description": "Core app for the login page of DHIS2",
   "coreApp": true,
   "minDHIS2Version": "2.41",
-  "version": "99.12.1",
+  "version": "100.0.0",
   "entryPoints": {
     "app": "index.html"
   }
