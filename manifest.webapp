@@ -4,7 +4,7 @@
   "short_name": "login",
   "name": "Login app",
   "description": "Core app for the login page of DHIS2",
-  "version": "100.1.12",
+  "version": "100.1.13",
   "core_app": true,
   "launch_path": "index.html",
   "default_locale": "en",
@@ -16,7 +16,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Wed Oct 02 2024 10:45:35 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Thu Oct 03 2024 01:51:25 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
